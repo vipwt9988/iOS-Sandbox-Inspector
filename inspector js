@@ -1,0 +1,16 @@
+// iOS Sandbox Inspector - SRD Research Tool
+// Author: vipwt9988 | Saudi Researcher 🇸🇦
+
+console.log("[*] Inspector Loaded");
+
+function checkEntitlements() {
+  console.log("[*] Checking entitlements on SRD");
+}
+
+function auditTCC() {
+  console.log("[*] Auditing TCC");
+}
+
+checkEntitlements();
+auditTCC();
+console.log("[+] Ready");
